@@ -20,4 +20,4 @@ As I continue my C++ learning journey, I'm open to contributions from the coding
 # Contact Me
 Let's connect and discuss all things C++! You can reach me through the following channels:
 
-Email: kabirnar1@gmail.com
+Email: kabirnar10@gmail.com
